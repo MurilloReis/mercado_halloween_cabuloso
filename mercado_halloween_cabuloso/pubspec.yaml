@@ -1,0 +1,12 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.0 # Verifique a última versão estável
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0 # Ou a versão que seu Flutter usa
+
+flutter:
+  uses-material-design: true
